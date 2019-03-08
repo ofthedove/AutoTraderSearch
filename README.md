@@ -1,6 +1,8 @@
 # AutoTraderSearch
 Simple python console app to search auto trader via api and print results
 
+Written for python3
+
 Searches AutoTrader.com via the api available at autotrader.com/rest/searchresults/base
 
 You can change the search parameters by altering the params dict
